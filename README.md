@@ -4,7 +4,7 @@ A comprehensive repository containing various enhancements and modifications to 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 The project is organized into the following major modules and lab directories:
 
@@ -17,7 +17,7 @@ The project is organized into the following major modules and lab directories:
 
 ---
 
-## 🛠️ Modules & Features Detailed
+## Modules & Features Detailed
 
 ### 1. System Calls & SJF Scheduler
 *Location: [`system_calls/`](file:///c:/Tech/Projects/xv6-OS/system_calls)*
@@ -91,7 +91,7 @@ This directory groups PDF instructions, academic lab reports, and advanced RISC-
 
 ---
 
-## 🚀 Running and Compiling
+## Running and Compiling
 
 Instructions to compile and run the standard x86 configurations:
 
