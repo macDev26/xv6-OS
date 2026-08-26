@@ -1,6 +1,6 @@
 # xv6 OS Extensions & Lab Projects
 
-A comprehensive repository containing various enhancements and modifications to the MIT xv6 Operating System (both x86 and RISC-V versions) as part of an academic OS course (OS 344 / CS 344).
+A comprehensive repository containing various enhancements and modifications to the MIT xv6 Operating System (both x86 and RISC-V versions) as part of an academic OS course (CS 344).
 
 ---
 
